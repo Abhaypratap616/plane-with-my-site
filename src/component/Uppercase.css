@@ -1,0 +1,9 @@
+.headingname{
+   margin: auto;
+    border: 2px solid darkblue;
+    width: 30%;
+    text-align: center;
+    display: block;
+    background-color: lightgoldenrodyellow;
+    border-radius: 10px;
+}

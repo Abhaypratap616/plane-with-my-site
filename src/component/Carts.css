@@ -1,0 +1,27 @@
+.imgplace img{
+    width: 20vw;
+    height: 50vh;
+}
+.cartssystem{
+   
+    
+    justify-content: space-around;
+    width: 20vw;
+    margin-top: 10vh;
+    text-align: center;
+    
+}
+.btn-1{
+    width: 8vw;
+    height: 4vh;
+    margin-top: 2vh;
+   text-align: center;
+  
+   border-radius :6px;
+}
+.main{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+ 
+}
